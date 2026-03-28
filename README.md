@@ -23,3 +23,7 @@
 ### 📡 Canlı Sinyal (Pydroid 3)
 - **Durum:** Dünya ağı taranıyor...
 - **Konum:** Şanlıurfa, Türkiye 📍
+
+---
+### 👣 Karargah Ziyaretçi Takibi
+![Ziyaretçi Sayacı](https://profile-counter.glitch.me/mehmetmakta01/count.svg)
