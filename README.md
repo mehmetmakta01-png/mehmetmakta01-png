@@ -1,4 +1,4 @@
-# 🛰️ ORAK1261 SÜPER ZEKA v3.0 | Karargah: Şanlıurfa
+# 🛰️ ORAK1261 SÜPER ZEKA v3.0 | Mehmet Dijital Ekosistem 
 
 > **"Değişim süreklidir."** - Bu merkezden tüm küresel sinyaller Mehmet Makta tarafından yönetilmektedir.
 
