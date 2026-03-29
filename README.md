@@ -1,29 +1,37 @@
-# 🛰️ ORAK1261 SÜPER ZEKA v3.0 | Mehmet Dijital Ekosistem 
+# 🛰️ ORAK1261 SÜPER ZEKA v3.0 | Mehmet Dijital Ekosistem
 
 > **"Değişim süreklidir."** - Bu merkezden tüm küresel sinyaller Mehmet Makta tarafından yönetilmektedir.
 
 ---
 
-### 🌐 Dijital Ekosistemim
-| Platform | Görev | Durum |
-| :--- | :--- | :--- |
-| **Fononline.net** | Altyapı ve Barındırma | 🟢 AKTİF |
-| **Firsatlarbe.com** | Küresel Ticaret | 🟡 SENKRONİZE |
-| **Evde satranç** | Strateji & Zeka | 🔵 ÇEVRİMİÇİ |
+### 📊 Karargah Çalışma Metrikleri
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=mehmetmakta01-png&show_icons=true&theme=tokyonight" alt="Mehmet İstatistik" />
+</p>
+
+### 🛠️ Kullanılan Teknolojiler & Sinyal Gücü
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mehmetmakta01-png&layout=compact&theme=tokyonight" alt="En Çok Kullanılan Diller" />
+</p>
 
 ---
 
-### 📊 ORAK1261 Siber İstatistikler
-![Stats](https://github-readme-stats.vercel.app/api?username=mehmetmakta01&show_icons=true&theme=radical&hide_border=true&count_private=true)
+### 🌐 Dijital Ekosistemim (Canlı Takip)
 
-![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mehmetmakta01&layout=compact&theme=radical&hide_border=true)
+| Platform | Görev | Durum | Sinyal |
+| :--- | :--- | :--- | :--- |
+| **Fononline.net** | Altyapı ve Barındırma | 🟢 Aktif | [Ziyaret Et](https://fononline.net) |
+| **Firsatlarbe.com** | Küresel Ticaret | 🟡 Senkronize | [İncele](https://firsatlarbe.com) |
+
+---
+
+### 🕵️ Karargah Ziyaretçi Analizi
+![Ziyaretçi Sayacı](https://profile-counter.glitch.me/mehmetmakta01-png/count.svg)
+*Şanlıurfa merkezli bu siber üs, dünya çapında izlenmektedir.*
 
 ---
 
-### 📡 Canlı Sinyal (Pydroid 3)
-- **Durum:** Dünya ağı taranıyor...
-- **Konum:** Şanlıurfa, Türkiye 📍
-
----
-### 👣 Karargah Ziyaretçi Takibi
-![Ziyaretçi Sayacı](https://profile-counter.glitch.me/mehmetmakta01/count.svg)
+### 📡 Siber Haber Akışı (Yapay Zeka & Yazılım)
+* 🤖 **Yapay Zeka:** Sinyaller taranıyor...
+* 💻 **Yazılım:** Karargah güncellendi.
+* 🛰️ **Sistem:** ORAK1261 v3.0 devrede.
