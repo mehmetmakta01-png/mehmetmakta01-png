@@ -32,7 +32,7 @@
 ---
 
 ### 🕵️ Karargah Ziyaretçi Analizi
-![Ziyaretçi Sayacı](https://profile-counter.glitch.me/mehmetmakta01-png/count.svg)
+![Ziyaretçi Sayacı](https://komarev.com/ghpvc/?username=mehmetmakta01-png&color=blue&style=flat-square&label=GIRIS%20KAYDI)
 
 ### 🌐 Ekosistem Bağlantıları
 
